@@ -6,7 +6,6 @@ import "./assets/css/custom.css";
 import "./assets/js/app.js";
 
 // Write Javascript code!
-// Variables
 
 // Variables
 const listaTweets = document.getElementById('lista-tweets');
